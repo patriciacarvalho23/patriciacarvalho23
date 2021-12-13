@@ -1,16 +1,34 @@
-### Hi there 👋
+<h2 align = 'center'>
+  
+  ✨ Olá, sou Patricia Carvalho. Seja bem vindo! ✨ 
 
-<!--
-**patriciacarvalho23/patriciacarvalho23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</h2>
 
-Here are some ideas to get you started:
+<p align = 'center'>
+  Um pouco sobre mim...
+</p>
+<p align = 'center'>
+  - 📚 Amo estudar, adquirir novos conhecimentos.
+</p>
+<p align = 'center'>
+  - 🎓 Estou participando do projeto ONE, da Oracle.
+</p>
+<p align = 'center'>
+  - 🎀 Pronomes: Ela/Dela
+</p>
+<p align = 'center'>
+  - 🏠 Meus Hobbies: Cozinhar 🍩 e Música 🎧 
+</p>
+  
+ <p align = 'center'>
+  
+  <a href="https://www.linkedin.com/in/patricia-carvalho-lopes23/">
+    <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>  
+  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+  
+  
