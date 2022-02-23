@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/patricia-carvalho-lopes23/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
  ![ Animação de cobra ](https://github.com/patriciacarvalho23/patriciacarvalho23/blob/output/github-contribution-grid-snake.svg)
-  
+ 
 </div>
-
-  [![ readme ](https://github-readme-stats.vercel.app/api/pin/?username=patriciacarvalho23&repo=patriciacarvalho23&theme=react)](https://github.com/patriciacarvalho23/patriciacarvalho23)
+ 
+[![ readme ](https://github-readme-stats.vercel.app/api/pin/?username=patriciacarvalho23&repo=patriciacarvalho23&theme=react)](https://github.com/patriciacarvalho23/patriciacarvalho23)
